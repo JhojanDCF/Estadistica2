@@ -38,9 +38,8 @@ la ultima data actualizada antes de las elecciones presidenciales, no hay del 20
 
 
 
-```http 
+```
 Offset --> Variables de control
-
 ```
 
 | Variable | Tipo     | Descripción                       |
