@@ -7,7 +7,6 @@
 
 ```
 Variable dependiente
-
 ```
 Cantidad de votos total obtenidos por cada candidato en cada provincia en las elecciones presidenciales del 2021 en la segunda vuelta 
 
@@ -17,9 +16,8 @@ Cantidad de votos total obtenidos por cada candidato en cada provincia en las el
 | `VOTOS_P2` | `Cuantitativa continua` | Cantidad de votos total obtenidos en la segunda vuelta de Fuerza Popular |
 
 
-```http
+```
  Variable independiente
-
 ```
 
 | Variable | Tipo     | Descripción                       |
