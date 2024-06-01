@@ -5,7 +5,7 @@
 
 
 
-```http
+```
 Variable dependiente
 
 ```
